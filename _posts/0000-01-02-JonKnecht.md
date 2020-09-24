@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Martin ist ein Viech"
 Use the left arrow to go back!
